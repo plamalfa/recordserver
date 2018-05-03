@@ -1,0 +1,18 @@
+{
+ "requests":[
+    {
+      "image":{
+      "source":{
+      "imageUri":
+      "https://img.discogs.com/R3ZXIDCevbs9xTFKguE1chBypOA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527548-1290318469.jpeg.jpg"
+         }
+     },
+       "features": [
+       {
+         "type": "WEB_DETECTION",
+         "maxResults": 50
+     }
+    ]
+   }
+  ]
+}
